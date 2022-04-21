@@ -6,7 +6,7 @@ on:
 
 jobs:
   unit-tests:
-    name: "Check Tests for Pull Request"
+    name: Check Tests for Pull Request
     runs-on: ubuntu-latest
 
     steps:
